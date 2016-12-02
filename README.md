@@ -1,4 +1,5 @@
-HOG 
+# HOG 
+
 Histogram of Oriented Gradients (HOG) are feature descriptors used in computer vision and image processing for the purpose of object detection. 
 
 In this technique the occurences of gradient orientations are counter and a histogram is formed.
